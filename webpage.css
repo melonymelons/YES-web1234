@@ -1,0 +1,12 @@
+/*hl {
+  color: red;
+}*/
+
+/*body {
+  background-color: black;
+}*/
+body{
+background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 42%, rgba(56,9,121,1) 70%, rgba(255,143,251,1) 100%);
+}
+/*https://cssgradient.io/  */
